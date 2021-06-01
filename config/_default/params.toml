@@ -27,7 +27,7 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://dev.azure.com/CDS-ADC-TFS/Digital%20Hub%20-%20India%20guild%20projects/_git/r2dl-doc-repo"
+github = "https://github.com/HarshaAsh/website"
 
 # comment
 enableComment = false

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine-learning on Harshaash</title>
-    <link>http://example.org/tags/machine-learning/</link>
+    <link>https://harshaachyuthuni.netlify.app/tags/machine-learning/</link>
     <description>Recent content in machine-learning on Harshaash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://harshaachyuthuni.netlify.app/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Streaming machine learning</title>
-        <link>http://example.org/blog/demonstrating-online-learning/</link>
+        <link>https://harshaachyuthuni.netlify.app/blog/demonstrating-online-learning/</link>
         <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/blog/demonstrating-online-learning/</guid>
+        <guid>https://harshaachyuthuni.netlify.app/blog/demonstrating-online-learning/</guid>
         <description>MathJax.Hub.Config({ extensions: [&#34;tex2jax.js&#34;,&#34;TeX/AMSmath.js&#34;,&#34;TeX/AMSsymbols.js&#34;], jax: [&#34;input/TeX&#34;, &#34;output/HTML-CSS&#34;], tex2jax: { inlineMath: [ [&#39;$&#39;,&#39;$&#39;], [&#34;\\(&#34;,&#34;\\)&#34;] ], displayMath: [ [&#39;$$&#39;,&#39;$$&#39;], [&#34;\\[&#34;,&#34;\\]&#34;] ], }, &#34;HTML-CSS&#34;: { availableFonts: [&#34;TeX&#34;] } });  Streaming machine learning Batch learning: In batch machine learning, we use one dataset to train a model, and we deploy the model to predict on new data. This assumes that the dataset in which the model is trained is a proper representative sample of the population.</description>
       </item>
       
