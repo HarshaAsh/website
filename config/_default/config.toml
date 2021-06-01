@@ -1,4 +1,4 @@
-baseURL = "http://example.org"
+baseURL = "https://harshaachyuthuni.netlify.app/"
 relativeUrl = true
 canonifyurls = true
 title = "Harshaash"
